@@ -1,4 +1,4 @@
-# Mike
+# Миша
 Встречайте: Миша 🐈‍⬛
 
 ![Mike](https://raw.githubusercontent.com/bitcoin21ideas/Mike/main/images/photo_2023-02-02%2018.22.57.jpeg)
